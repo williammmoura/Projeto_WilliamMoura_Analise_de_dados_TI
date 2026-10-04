@@ -1,0 +1,9 @@
+numero,pergunta,hipotese,resposta
+1,Qual filial apresentou o maior faturamento?,A filial com mais vendas também é a de maior faturamento.,Giza com 110568.71 (ticket médio 337.10).
+2,Qual filial realizou a maior quantidade de vendas?,A diferença de vendas entre as filiais é pequena (menos de 10%).,Alex com 340 vendas (diferença de 3.7% entre a maior e a menor filial).
+3,Qual linha de produto apresentou o maior faturamento?,A linha com mais vendas também é a de maior faturamento.,Food and beverages com 56144.86. A linha com mais vendas é Fashion accessories.
+4,Qual linha de produto recebeu a melhor avaliação média?,A linha de maior faturamento também tem a melhor avaliação.,"Food and beverages com nota média 7.11 (a menor é Home and lifestyle, com 6.84)."
+5,Qual foi a forma de pagamento mais utilizada?,Dinheiro (Cash) é a forma de pagamento mais usada.,"Ewallet com 345 vendas (34.5%). Em segundo, Cash com 344."
+6,Qual foi o valor médio das vendas?,A média é puxada para cima por poucas vendas muito altas.,"Média 322.97 (mediana 253.85, desvio padrão 245.89)."
+7,Qual foi a maior venda registrada?,A maior venda ocorreu na filial de maior faturamento.,"1042.65 (fatura 860-79-0874, filial Giza, Fashion accessories)."
+8,Em qual dia da semana ocorreu a maior quantidade de vendas?,O dia com mais vendas é sábado ou domingo.,Sábado com 164 vendas.
